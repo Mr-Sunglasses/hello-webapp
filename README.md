@@ -1,7 +1,7 @@
 # hello-webapp
 hello-webapp: A docker image running with a python http server inside a docker container.
 
-![Docker Image Size](https://img.shields.io/docker/image-size/mrsunglasses/hello-webapp)
+![Docker Image Version](https://img.shields.io/docker/v/mrsunglasses/hello-webapp)
 ![Docker Image Size](https://img.shields.io/docker/image-size/mrsunglasses/hello-webapp)
 [![GitHub issues](https://img.shields.io/github/issues/Mr-Sunglasses/hello-webapp)](https://github.com/Mr-Sunglasses/hello-webapp/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Mr-Sunglasses/hello-webapp)](https://github.com/Mr-Sunglasses/hello-webapp/network)
@@ -37,3 +37,23 @@ To publish the Docker image to Docker Hub, you can use the following command:
 ```bash
 docker push your-dockerhub-username/hello-webapp:latest
 ```
+
+## Potential Usage
+This Docker image can be used for various purposes, such as:
+- Hosting a simple web application.
+- Testing web applications in a controlled environment.
+- Learning and experimenting with Docker and web technologies.
+- Learning how to create and manage Docker images.
+
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mr-Sunglasses/hello-webapp/blob/main/LICENSE) file for details.
+
+## 🙏 Support++
+
+This project needs your shiny star ⭐.
+Don't forget to leave a star ⭐️
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
