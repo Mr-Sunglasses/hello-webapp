@@ -49,7 +49,7 @@ This Docker image can be used for various purposes, such as:
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mr-Sunglasses/hello-webapp/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Support++
 
